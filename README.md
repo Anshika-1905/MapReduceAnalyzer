@@ -1,4 +1,4 @@
-# CPSC_531_Adv_DB
+# Map Reduce Analytics
 ## DEPLOYMENT AND RUNNING INSTRUCTIONS:
 
 <ol>
